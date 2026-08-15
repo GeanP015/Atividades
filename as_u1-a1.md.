@@ -1,10 +1,277 @@
-## INF0056B_ES-SI_2026/2 - Engenharia de Software
-### Encontro 01 - Semana 01 - Dia 10/08/2026 - Aulas 01 a 02
+INF0056B_ES-SI_2026/2 - Engenharia de Software
 
-<div align="center"><b><h1>Atividade Supervisionada U1-A1</b></div>
+Atividade Supervisionada U1-A1
 
 Matrícula: 202501707
 
 Nome: Gean Pablo Pereira Camargo
 
-Competências do Engenheiro de Software [U1-A1:]
+
+Competências do Engenheiro de Software [U1-A1:]:
+
+
+1. Programação e desenvolvimento de software
+
+É a capacidade de transformar requisitos e problemas em sistemas de software funcionais.
+O engenheiro deve dominar linguagens de programação, estruturas de dados, algoritmos, orientação a objetos, APIs, bancos de dados
+e ferramentas de desenvolvimento. Além de saber escrever código, deve produzir um código legível, organizado, reutilizável, seguro 
+e fácil de manter.
+Exemplo: desenvolver uma aplicação Java seguindo boas práticas e princípios de orientação a objetos.
+
+2. Engenharia de requisitos
+
+Consiste em compreender o que o sistema precisa fazer e quais necessidades dos usuários e da organização ele deve atender.
+O engenheiro precisa saber:
+
+identificar requisitos funcionais e não funcionais;
+conversar com clientes e usuários;
+identificar ambiguidades;
+documentar requisitos;
+analisar mudanças de requisitos;
+transformar necessidades de negócio em especificações técnicas.
+Essa competência é importante porque muitos problemas de software surgem quando o sistema é desenvolvido com base em uma 
+compreensão incorreta do que o usuário realmente precisava.
+
+3. Análise e resolução de problemas
+
+Um engenheiro de software precisa ser capaz de identificar problemas, analisar suas causas e encontrar soluções eficientes.
+Isso envolve raciocínio lógico, pensamento crítico e capacidade de dividir problemas complexos em partes menores.
+Por exemplo, diante de um sistema lento, o engenheiro não deve simplesmente tentar "otimizar o código". 
+Ele precisa investigar se o problema está no código, no banco de dados, na rede, na infraestrutura ou em outro componente.
+
+4. Arquitetura e design de software
+
+É a capacidade de definir como o software será estruturado.
+O engenheiro precisa compreender conceitos como:
+
+arquitetura em camadas;
+microsserviços;
+APIs;
+padrões de projeto;
+modularização;
+baixo acoplamento;
+alta coesão;
+escalabilidade;
+manutenibilidade.
+
+Uma boa arquitetura permite que o sistema evolua sem que cada alteração provoque problemas em outras partes.
+
+5. Qualidade de software
+
+O engenheiro deve garantir que o software não apenas funcione, mas funcione 
+corretamente, de forma confiável e consistente.
+Isso envolve:
+
+testes unitários;
+testes de integração;
+testes de sistema;
+testes automatizados;
+revisão de código;
+análise estática;
+prevenção de defeitos;
+monitoramento da qualidade.
+
+A qualidade deve ser considerada durante todo o desenvolvimento, 
+e não somente depois que o sistema está pronto.
+
+6. Segurança da informação
+
+O engenheiro precisa desenvolver sistemas que protejam dados, usuários e recursos da aplicação.
+Deve conhecer conceitos como:
+
+autenticação;
+autorização;
+criptografia;
+controle de acesso;
+proteção de dados;
+vulnerabilidades;
+segurança de APIs;
+práticas de desenvolvimento seguro.
+
+A segurança deve ser incorporada desde a arquitetura e o desenvolvimento, 
+e não adicionada apenas no final do projeto.
+
+7. Banco de dados e gerenciamento de dados
+
+Grande parte dos sistemas depende do armazenamento e processamento de informações.
+O engenheiro precisa compreender:
+
+bancos relacionais e não relacionais;
+SQL;
+modelagem de dados;
+relacionamentos;
+normalização;
+índices;
+transações;
+integridade dos dados;
+desempenho de consultas.
+
+Também precisa saber escolher a tecnologia adequada de acordo com as necessidades do sistema.
+
+8. Controle de versão e colaboração no código
+
+O desenvolvimento profissional normalmente envolve várias pessoas trabalhando no mesmo projeto.
+
+Por isso, o engenheiro deve dominar ferramentas como Git, além de compreender:
+
+branches;
+commits;
+merge;
+pull requests;
+resolução de conflitos;
+revisão de código;
+estratégias de versionamento.
+
+Isso permite que uma equipe trabalhe simultaneamente sem perder ou sobrescrever 
+o trabalho dos outros integrantes.
+
+9. DevOps e integração/entrega contínua
+
+O engenheiro precisa compreender como o software passa do desenvolvimento
+para um ambiente onde possa ser utilizado pelos usuários.
+Isso envolve conceitos como:
+
+CI/CD;
+automação de builds;
+testes automatizados;
+deploy;
+containers;
+monitoramento;
+infraestrutura;
+gerenciamento de ambientes.
+
+O objetivo é tornar a entrega de software mais rápida,
+segura, repetível e confiável.
+
+10. Conhecimento de processos e metodologias de desenvolvimento
+
+O engenheiro deve conhecer diferentes formas de organizar
+o desenvolvimento de software.
+Entre elas estão:
+
+Scrum;
+Kanban;
+métodos ágeis;
+desenvolvimento iterativo;
+desenvolvimento incremental;
+práticas de planejamento e acompanhamento.
+
+Mais importante do que conhecer uma metodologia específica é saber quando 
+e como aplicar diferentes práticas de acordo com o contexto do projeto.
+
+11. Comunicação
+
+A comunicação é uma das competências mais importantes.
+O engenheiro precisa conseguir explicar assuntos técnicos para diferentes públicos: 
+programadores, gestores, clientes e usuários.
+Isso inclui saber:
+
+explicar problemas;
+documentar decisões;
+apresentar soluções;
+fazer perguntas;
+ouvir requisitos;
+comunicar riscos;
+adaptar a linguagem ao público.
+
+Um excelente programador que não consegue comunicar suas ideias 
+pode ter dificuldades para atuar efetivamente em uma equipe.
+
+12. Trabalho em equipe
+
+Software normalmente é desenvolvido por equipes. 
+Portanto, o engenheiro precisa saber colaborar com outras pessoas.
+Isso envolve:
+
+compartilhar conhecimento;
+ajudar colegas;
+receber críticas;
+realizar code reviews;
+resolver conflitos;
+respeitar diferentes opiniões;
+dividir responsabilidades.
+
+O objetivo não é apenas produzir código individualmente, 
+mas contribuir para o resultado da equipe.
+
+13. Gestão de projetos e tempo
+
+O engenheiro precisa compreender que desenvolvimento de software possui prazos, 
+custos, prioridades e recursos limitados.
+Deve conseguir:
+
+estimar tarefas;
+definir prioridades;
+acompanhar atividades;
+identificar riscos;
+administrar tempo;
+comunicar atrasos;
+compreender impactos de mudanças.
+
+Não significa necessariamente ser um gerente de projetos, 
+mas ter consciência dos aspectos de gestão que afetam o desenvolvimento.
+
+14. Pensamento crítico e tomada de decisão
+
+O engenheiro frequentemente precisa escolher entre diferentes tecnologias, 
+arquiteturas e soluções.
+Para isso, deve analisar:
+
+vantagens e desvantagens;
+custos;
+riscos;
+desempenho;
+segurança;
+facilidade de manutenção;
+impacto futuro.
+
+A decisão deve ser baseada em evidências e necessidades do projeto, 
+e não simplesmente na preferência pessoal.
+
+15. Aprendizado contínuo
+
+A tecnologia muda constantemente. 
+Novas linguagens, frameworks, ferramentas, arquiteturas e práticas surgem continuamente.
+Por isso, o engenheiro precisa ter capacidade de:
+
+aprender novas tecnologias;
+pesquisar documentação;
+estudar conceitos;
+acompanhar tendências;
+adaptar-se a novas ferramentas;
+atualizar seus conhecimentos.
+
+Essa competência é fundamental porque uma tecnologia que é muito utilizada hoje 
+pode ser substituída ou modificada no futuro.
+
+16. Conhecimento do negócio
+
+O engenheiro não deve entender apenas como construir o sistema, 
+mas também por que o sistema está sendo construído.
+É importante compreender:
+
+objetivos da organização;
+necessidades dos usuários;
+processos de negócio;
+custos;
+regras do negócio;
+impacto das funcionalidades.
+
+Assim, ele consegue propor soluções tecnicamente boas 
+e que realmente gerem valor para a organização.
+
+17. Ética e responsabilidade profissional
+
+O engenheiro de software trabalha frequentemente com informações importantes 
+e sistemas que podem afetar pessoas e organizações.
+Por isso, deve considerar:
+
+privacidade;
+segurança;
+responsabilidade sobre os sistemas desenvolvidos;
+uso correto dos dados;
+impactos sociais da tecnologia;
+transparência;
+cumprimento de normas e leis.
+
+Uma solução tecnicamente possível nem sempre é uma solução ética ou adequada.
