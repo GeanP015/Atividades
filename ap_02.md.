@@ -17,7 +17,7 @@ Nome: Gean Pablo Pereira Camargo
 
 |ID|Classificação|Requisito|Justificativa|
 |:---:|:---:|:---|:---|
-|01||O sistema deve permitir que o usuário crie uma conta utilizando dados pessoais e credenciais de acesso.|Rf|
+|01||O sistema deve permitir que o usuário crie uma conta utilizando dados pessoais e credenciais de acesso.|RF|
 |02||O sistema deve permitir autenticação e encerramento seguro da sessão do usuário.|RF|
 |03||O sistema deve permitir recuperação ou redefinição de senha por meio de um canal previamente validado.|RF|
 |04||As credenciais dos usuários devem ser armazenadas de forma protegida, utilizando mecanismos adequados de criptografia ou hash.|RNF|
